@@ -2,6 +2,8 @@
 
 **Proton Pass** is a sleek and interactive **web app** that helps you instantly check the strength of your passwords. Keep your accounts secure by creating strong and reliable passwords!  
 
+You can **open the app directly** here: [Proton Pass Web App](https://sphael7.github.io/password-strength-tool/)
+
 ---
 
 ## 🚀 Features
@@ -15,7 +17,7 @@
 
 ## 🖱️ How to Use
 
-1. Open `index.html` in your browser.  
+1. Click the link above or open `index.html` in your browser.  
 2. Type your password in the input field.  
 3. Watch the strength indicator update in real-time.  
 4. Improve your password based on the feedback to make it stronger!  
